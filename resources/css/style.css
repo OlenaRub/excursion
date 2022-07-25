@@ -3,17 +3,17 @@ body {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.hhheader1 {
+h1 {
     font-weight: normal;
     font-size: 50px;
     color: #ffffff;
 }
-.hhheader2 {
+h2 {
     font-weight: 300;
     font-size: 42px;
     color: #ffffff;
 }
-.hhheader4 {
+h4 {
     font-size: 21px;
     color: #808080 ;
 }
